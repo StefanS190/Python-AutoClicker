@@ -1,3 +1,5 @@
+#you may edit this code freely.
+
 import time
 import threading
 from pynput.mouse import Controller, Button
